@@ -29,7 +29,7 @@ function Navbar() {
         </ul>
       </nav>
       <a
-        href="https://drive.google.com/file/d/1pNuM--bo3acp88bQnSpsCD_1gp98cIZI/view?usp=sharing"
+        href="https://drive.google.com/file/d/1SgWVZqXDGDIDsYZQXLQSkPQBz-AhmZlv/view?usp=sharing"
         target="_blank"
         className="bg-violet-600 font-semibold text-white px-3 py-2 rounded-lg transition-all duration-300 active:scale-95 hover:bg-violet-700 hidden md:block"
       >
